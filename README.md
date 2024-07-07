@@ -1,1 +1,1 @@
-# Nah, he lost
+# localStorage.getItem('GojoVotes').toString()

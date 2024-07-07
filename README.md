@@ -1,1 +1,2 @@
-# localStorage.getItem('GojoVotes').toString()
+let gojoVotes = localStorage.getItem('GojoVotes');
+document.write(`Votes for Gojo: ${gojoVotes}`);
